@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
-<details><summary>Deploy To Heroku</summary>
+<i>**<details><summary>Deploy To Heroku</summary>
 <p>
 <br>
 
